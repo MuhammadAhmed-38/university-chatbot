@@ -1,0 +1,8 @@
+applicant_id,name,course_applied,status,gpa,ielts_score,work_experience_years,nationality,application_date
+APP_001,John Smith,MSc Artificial Intelligence,Under Review,3.5,7.0,2,UK,2024-06-15
+APP_002,Priya Patel,MBA,Accepted,3.8,6.5,5,India,2024-05-20
+APP_003,Ahmed Hassan,MSc Cybersecurity,Documents Pending,3.2,6.0,1,Egypt,2024-07-01
+APP_004,Maria Garcia,BSc Computer Science,Under Review,3.6,7.5,0,Spain,2024-06-30
+APP_005,David Chen,MSc Data Science,Accepted,3.9,8.0,3,China,2024-05-10
+APP_006,Muhammad Ahmed,MSc Artificial Intelligence,Accepted,3.43,7.5,1,Pakistan,2024-05-10
+APP_007,Zainab Noor,MSc Biotechnology,Under Review,3.90,7,1,Pakistan,2025-01-01

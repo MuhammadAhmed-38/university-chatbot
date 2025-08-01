@@ -1,0 +1,10 @@
+slot_id,date,time,available,counselor_name
+1,2025-07-18,10:00 AM,TRUE,Dr. Sarah Johnson
+2,2025-07-18,02:00 PM,TRUE,Prof. Michael Brown
+3,2025-07-18,04:00 PM,FALSE,Dr. Sarah Johnson
+4,2025-07-19,11:00 AM,TRUE,Dr. Emily Davis
+5,2025-07-19,03:00 PM,TRUE,Prof. Michael Brown
+6,2025-07-20,10:00 am,FALSE,
+7,2025-07-20,4:00 pm,FALSE,
+8,2025-07-21,10:00 am,TRUE,Dr. Mustanzar 
+10,2025-07-21,3:00 pm,TRUE,Dr. Amin Karami

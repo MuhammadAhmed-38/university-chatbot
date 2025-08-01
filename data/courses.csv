@@ -1,0 +1,581 @@
+course_name,level,department,description,keywords,duration,fees_domestic,fees_international,min_gpa,min_ielts,trending_score,career_prospects,modules
+Computer Science BSc,undergraduate,School of Computing,Comprehensive computer science program covering programming algorithms data structures and software engineering,"programming,software,algorithms,coding,artificial intelligence,machine learning,data structures,java,python",3 years,9250,13500,2.8,6.0,8.5,"Software Developer, Data Scientist, AI Engineer, Systems Analyst","Introduction to Programming (Core): Covers fundamentals of programming using Python and Java, focusing on problem-solving and algorithm design.
+Data Structures and Algorithms (Core): Explores essential data structures like arrays, lists, and trees, and algorithmic techniques for efficient coding.
+Software Engineering Principles (Core): Introduces software development methodologies, including agile practices and version control.
+Artificial Intelligence Fundamentals (Core): Provides an overview of AI concepts, including machine learning and neural networks.
+Final Year Project (Core): A capstone project to design and implement a software solution, emphasizing research and development skills."
+Computer Science BSc with Placement,undergraduate with placement,School of Computing,Undergraduate computer science with a year-long industry placement,"programming,software,algorithms,coding,placement,industry",4 years,9250,13500,2.8,6.0,8.6,"Software Developer, Systems Engineer, IT Consultant","Introduction to Programming (Core): Teaches programming fundamentals using Python and Java with real-world applications.
+Data Structures and Algorithms (Core): Focuses on designing and analyzing data structures and algorithms for efficiency.
+Industry Placement (Core): A year-long placement in a tech company, applying programming and software engineering skills.
+Software Engineering Practices (Core): Covers agile methodologies, testing, and deployment in professional settings.
+Capstone Project (Core): A practical project integrating industry experience with academic learning."
+Computer Science MSc,masters,School of Computing,Advanced study in computer science with focus on software development and emerging technologies,"software engineering,AI,cloud computing,advanced programming",1 year,10500,16500,3.0,6.5,8.7,"Senior Software Engineer, Data Scientist, IT Manager","Advanced Software Engineering (Core): Explores modern software development practices, including DevOps and microservices.
+Cloud Computing Technologies (Core): Covers cloud platforms like AWS and Azure, focusing on scalable architectures.
+AI and Machine Learning (Core): Introduces advanced AI techniques, including deep learning and neural networks.
+Cybersecurity Fundamentals (Core): Examines security protocols and threat mitigation in software systems.
+Dissertation (Core): A research-based project focusing on an emerging technology in computer science."
+Computer Science PhD,PhD,School of Computing,Research-focused program in computer science with specialization options,"research,algorithms,AI,software systems,computer science",3 years,12000,18000,3.2,6.5,8.4,"Research Scientist, Academic, AI Specialist","Research Methods in Computer Science (Core): Covers advanced research methodologies and academic writing.
+Specialized Algorithm Design (Core): Focuses on designing novel algorithms for specific research problems.
+AI and Data Science Applications (Core): Explores cutting-edge AI applications in research contexts.
+Seminar Series (Core): Engages students in presenting and critiquing current research in computer science.
+Thesis (Core): An original research project contributing to the field of computer science."
+Computer Science Apprenticeship,apprenticeship,School of Computing,Work-based learning in software development and IT systems,"apprenticeship,programming,software,IT systems",2 years,8000,12000,2.5,5.5,7.8,"Junior Developer, IT Support Specialist","Introduction to Software Development (Core): Teaches programming basics and software tools used in industry.
+IT Systems and Support (Core): Covers system administration, networking, and IT support fundamentals.
+Work-Based Project (Core): A practical project completed in a workplace setting, applying coding skills.
+Database Fundamentals (Core): Introduces database management and SQL for IT applications.
+Professional Skills (Core): Focuses on teamwork, communication, and workplace ethics."
+Artificial Intelligence MSc,masters,School of Computing,Advanced AI program focusing on machine learning and neural networks,"artificial intelligence,machine learning,deep learning,neural networks,robotics",1 year,10500,16500,3.2,6.5,9.2,"AI Researcher, Machine Learning Engineer, Data Scientist","Artificial Intelligence & Machine Vision (Core): Covers key AI and machine vision concepts, including machine learning, neural networks, deep learning, and digital image processing. It also explores vision systems and addresses ethical, legal, and social issues in AI.
+Machine Learning on Big Data (Core): Focuses on machine learning tools and techniques for analyzing large-scale data. Also includes cybersecurity concepts to protect systems from cyber threats and intrusions.
+Intelligent Systems (Core): Provides hands-on experience in designing intelligent systems using agents, machine learning, and deep learning to solve complex real-world problems.
+Mental Wealth; Professional Life (Dissertation) (Core): A practical project developing research, design, and implementation skills. Emphasizes ethical considerations, academic writing, personal development, and professional engagement.
+Big Data Analytics (Core): Covers the theory and practice of big data systems, including data management and advanced analytics, using cutting-edge tools and techniques."
+Artificial Intelligence PhD,PhD,School of Computing,Research in AI with focus on innovative algorithms and applications,"AI,machine learning,research,neural networks,robotics",3 years,12000,18000,3.2,6.5,9.0,"AI Research Scientist, Academic, AI Consultant","Advanced AI Research Methods (Core): Teaches research design and methodologies for AI innovation.
+Neural Network Architectures (Core): Explores advanced neural network designs for cutting-edge applications.
+Robotics and AI Applications (Core): Focuses on AI-driven robotics and real-world implementations.
+Ethics in AI Research (Core): Examines ethical challenges in AI development and deployment.
+Thesis (Core): An original research contribution to AI algorithms or applications."
+Data Science MSc,masters,School of Computing,Interdisciplinary program combining statistics and programming for big data insights,"data science,big data,statistics,analytics,python",1 year,10500,16500,3.0,6.5,9.0,"Data Scientist, Business Analyst, Data Engineer","Statistical Methods for Data Science (Core): Covers advanced statistical techniques for data analysis.
+Big Data Technologies (Core): Introduces tools like Hadoop and Spark for processing large datasets.
+Python for Data Science (Core): Focuses on Python programming for data manipulation and visualization.
+Machine Learning Applications (Core): Explores practical applications of machine learning in data science.
+Dissertation (Core): A research project analyzing real-world data to derive actionable insights."
+Data Science Postgraduate Diploma,postgraduate diploma,School of Computing,Condensed program in data science with focus on analytics and visualization,"data science,analytics,python,visualization",9 months,8500,13000,3.0,6.5,8.8,"Data Analyst, Business Intelligence Analyst","Data Visualization Techniques (Core): Teaches tools like Tableau and Power BI for effective data presentation.
+Python for Analytics (Core): Focuses on Python for data cleaning, analysis, and visualization.
+Statistical Analysis (Core): Covers essential statistical methods for data interpretation.
+Big Data Fundamentals (Core): Introduces big data tools and techniques for analytics.
+Capstone Project (Core): A practical project applying analytics to real-world datasets."
+Cybersecurity MSc,masters,School of Computing,Specialized program in information security and cyber threat analysis,"cybersecurity,security,hacking,forensics,networking",1 year,10500,16500,3.0,6.5,8.8,"Security Analyst, Cyber Security Consultant","Network Security (Core): Covers protocols and techniques to secure network infrastructures.
+Cyber Threat Analysis (Core): Focuses on identifying and mitigating cyber threats and vulnerabilities.
+Digital Forensics (Core): Teaches techniques for investigating cyber incidents and collecting evidence.
+Ethical Hacking (Core): Provides hands-on experience in penetration testing and vulnerability assessment.
+Dissertation (Core): A research project on a cybersecurity challenge or innovation."
+Cybersecurity MSc with Placement,masters with placement,School of Computing,Cybersecurity masters with a 6-month industry placement,"cybersecurity,security,placement,forensics,networking",18 months,10500,16500,3.0,6.5,8.9,"Cyber Security Specialist, Forensics Analyst","Network Security Fundamentals (Core): Introduces network security protocols and configurations.
+Cyber Threat Mitigation (Core): Focuses on strategies to prevent and respond to cyber attacks.
+Industry Placement (Core): A 6-month placement applying cybersecurity skills in a professional setting.
+Digital Forensics Techniques (Core): Covers forensic analysis for cybercrime investigations.
+Capstone Project (Core): A project integrating placement experience with cybersecurity research."
+Cloud Computing MSc,masters,School of Computing,Specialized program in cloud technologies and scalable infrastructure,"cloud computing,AWS,azure,devops,containers",1 year,10500,16500,3.0,6.5,8.9,"Cloud Architect, DevOps Engineer","Cloud Architecture Design (Core): Covers designing scalable cloud solutions using AWS and Azure.
+DevOps Practices (Core): Introduces CI/CD pipelines and automation in cloud environments.
+Containerization Technologies (Core): Focuses on Docker and Kubernetes for container management.
+Cloud Security (Core): Explores security practices for protecting cloud-based systems.
+Dissertation (Core): A research project on cloud computing innovations or challenges."
+Software Engineering BSc,undergraduate,School of Computing,Focuses on software development methodologies and system design,"software engineering,programming,agile,devops",3 years,9250,13500,2.8,6.0,8.3,"Software Engineer, Full Stack Developer","Programming Fundamentals (Core): Teaches coding in Python and Java for software development.
+Agile Software Development (Core): Covers agile methodologies like Scrum and Kanban.
+System Design Principles (Core): Focuses on designing robust and scalable software systems.
+Database Systems (Core): Introduces SQL and database design for software applications.
+Final Year Project (Core): A capstone project developing a complete software solution."
+Computer Networks MSc,masters,School of Computing,Advanced study of network design protocols and security,"networking,protocols,cybersecurity,wireless networks",1 year,10500,16500,3.0,6.5,8.7,"Network Engineer, Network Security Specialist","Network Design and Protocols (Core): Covers network architectures and communication protocols.
+Wireless Networking (Core): Focuses on designing and securing wireless network systems.
+Network Security (Core): Teaches techniques to protect networks from cyber threats.
+Cloud Networking (Core): Explores networking in cloud environments like AWS and Azure.
+Dissertation (Core): A research project on network design or security innovations."
+Robotics MSc,masters,School of Computing,Explores robotics design automation and control systems,"robotics,automation,control systems,AI",1 year,10500,16500,3.2,6.5,8.6,"Robotics Engineer, Automation Specialist","Robotics Design and Control (Core): Covers designing robotic systems and control algorithms.
+AI for Robotics (Core): Introduces AI techniques for autonomous robotic systems.
+Automation Systems (Core): Focuses on industrial automation and robotic applications.
+Embedded Systems (Core): Teaches programming for robotic hardware and sensors.
+Dissertation (Core): A research project on robotics design or AI applications."
+Web Development BSc,undergraduate,School of Computing,Practical program in designing and building responsive web applications,"web development,HTML,CSS,javascript,react",3 years,9250,13500,2.7,6.0,8.4,"Web Developer, Frontend Developer","Web Design Fundamentals (Core): Covers HTML, CSS, and responsive design principles.
+JavaScript Programming (Core): Teaches JavaScript for interactive web applications.
+Frontend Frameworks (Core): Introduces React for building modern web interfaces.
+Backend Development (Core): Covers server-side programming with Node.js and databases.
+Final Year Project (Core): A capstone project developing a full-stack web application."
+Database Systems MSc,masters,School of Computing,Advanced study of database design and big data technologies,"databases,SQL,NoSQL,big data",1 year,10500,16500,3.0,6.5,8.5,"Database Administrator, Data Engineer","Database Design and SQL (Core): Covers relational database design and advanced SQL queries.
+NoSQL Databases (Core): Introduces non-relational databases like MongoDB and Cassandra.
+Big Data Management (Core): Focuses on managing large-scale data with Hadoop and Spark.
+Data Security (Core): Teaches techniques to secure database systems from threats.
+Dissertation (Core): A research project on database optimization or big data solutions."
+Information Security Postgraduate Diploma,postgraduate diploma,School of Computing,Condensed program in information security and digital forensics,"information security,cybersecurity,forensics",9 months,8500,13000,3.0,6.5,8.4,"Security Analyst, Forensics Specialist","Information Security Fundamentals (Core): Covers core concepts in securing IT systems.
+Digital Forensics Techniques (Core): Teaches methods for investigating cyber incidents.
+Network Security Basics (Core): Introduces protocols for securing network infrastructures.
+Ethical Hacking (Core): Provides hands-on experience in penetration testing.
+Capstone Project (Core): A practical project applying security and forensics skills."
+Machine Learning Apprenticeship,apprenticeship,School of Computing,Work-based training in machine learning and data analytics,"machine learning,data analytics,apprenticeship,AI",2 years,8000,12000,2.5,5.5,7.9,"Machine Learning Engineer, Data Analyst","Introduction to Machine Learning (Core): Teaches basic ML algorithms and their applications.
+Data Analytics Fundamentals (Core): Covers data cleaning, visualization, and analysis techniques.
+Work-Based ML Project (Core): A practical project applying ML in a workplace setting.
+Python for Machine Learning (Core): Focuses on Python libraries like TensorFlow and Scikit-learn.
+Professional Skills (Core): Emphasizes workplace communication and ethics."
+Computer Vision MSc,masters,School of Computing,Focuses on image processing and computer vision technologies,"computer vision,image processing,AI,machine learning",1 year,10500,16500,3.2,6.5,8.8,"Computer Vision Engineer, AI Developer","Image Processing Techniques (Core): Covers digital image processing and feature extraction.
+Computer Vision Algorithms (Core): Introduces algorithms for object detection and recognition.
+Deep Learning for Vision (Core): Focuses on neural networks for computer vision tasks.
+AI Ethics and Applications (Core): Explores ethical issues in AI-driven vision systems.
+Dissertation (Core): A research project on computer vision innovations."
+Medicine MBBS,undergraduate,School of Medicine,Comprehensive medical education program with clinical training,"medicine,healthcare,clinical,anatomy,physiology",5 years,9250,38000,3.8,7.5,7.8,"Doctor, Surgeon, Medical Researcher","Human Anatomy and Physiology (Core): Covers the structure and function of the human body.
+Clinical Skills (Core): Teaches patient examination, diagnosis, and communication skills.
+Pathology and Pharmacology (Core): Introduces disease mechanisms and drug treatments.
+Clinical Rotations (Core): Provides hands-on experience in hospital settings.
+Capstone Research Project (Core): A project exploring a medical topic or clinical issue."
+Medicine MBBS with Placement,undergraduate with placement,School of Medicine,Medical program with a year of clinical placement,"medicine,healthcare,clinical,placement",6 years,9250,38000,3.8,7.5,7.9,"Doctor, Surgeon, Healthcare Consultant","Human Anatomy and Physiology (Core): Teaches the fundamentals of human body systems.
+Clinical Skills (Core): Focuses on patient interaction and diagnostic techniques.
+Clinical Placement Year (Core): A year-long placement in a healthcare setting.
+Pathology and Pharmacology (Core): Covers disease processes and medical treatments.
+Capstone Research Project (Core): A project integrating clinical experience with research."
+Medical Research MSc,masters,School of Medicine,Advanced study in medical research methodologies,"medical research,clinical trials,healthcare,research",1 year,10500,16500,3.2,6.5,7.7,"Medical Researcher, Clinical Scientist","Research Methodologies (Core): Introduces advanced methods for medical research.
+Clinical Trials Design (Core): Covers designing and conducting clinical trials.
+Biostatistics (Core): Teaches statistical methods for analyzing medical data.
+Ethics in Medical Research (Core): Explores ethical considerations in healthcare research.
+Dissertation (Core): A research project on a medical or clinical topic."
+Medical Research PhD,PhD,School of Medicine,Research-focused program in medical sciences,"medical research,clinical trials,biomedicine,research",3 years,12000,18000,3.2,6.5,7.6,"Research Scientist, Academic, Clinical Researcher","Advanced Research Methods (Core): Covers methodologies for biomedical research.
+Clinical Trial Management (Core): Focuses on designing and managing clinical studies.
+Biomedical Data Analysis (Core): Teaches advanced data analysis techniques.
+Research Ethics (Core): Examines ethical issues in medical research.
+Thesis (Core): An original research contribution to medical sciences."
+Clinical Practice Postgraduate Diploma,postgraduate diploma,School of Medicine,Condensed program in advanced clinical practice,"clinical practice,healthcare,patient care",9 months,8500,13000,3.0,6.5,7.5,"Clinical Practitioner, Healthcare Consultant","Advanced Clinical Skills (Core): Teaches advanced patient assessment and care techniques.
+Patient Care Management (Core): Focuses on managing complex patient cases.
+Healthcare Ethics (Core): Covers ethical considerations in clinical practice.
+Clinical Decision Making (Core): Introduces evidence-based decision-making strategies.
+Capstone Project (Core): A practical project applying clinical skills."
+Biomedical Sciences BSc,undergraduate,School of Life Sciences,Study of biological processes and diseases with laboratory research,"biomedical,biology,medical research,genetics",3 years,9250,13500,3.0,6.0,7.2,"Research Scientist, Laboratory Technician","Cell Biology (Core): Covers cellular structures and functions in health and disease.
+Genetics and Molecular Biology (Core): Introduces genetic principles and molecular techniques.
+Biomedical Laboratory Skills (Core): Teaches practical lab techniques for research.
+Pathophysiology (Core): Explores disease mechanisms and their biological impact.
+Final Year Project (Core): A research project in a biomedical topic."
+Biotechnology MSc,masters,School of Life Sciences,Advanced biotechnology program for innovative solutions,"biotechnology,genetic engineering,pharmaceuticals",1 year,10500,16500,3.2,6.5,8.3,"Biotechnology Researcher, Pharmaceutical Scientist","Genetic Engineering (Core): Covers techniques for modifying genetic material.
+Bioprocessing Technologies (Core): Focuses on industrial biotechnology processes.
+Pharmaceutical Biotechnology (Core): Explores drug development and biopharmaceuticals.
+Bioinformatics Basics (Core): Introduces computational tools for biological data analysis.
+Dissertation (Core): A research project on a biotechnology innovation."
+Neuroscience MSc,masters,School of Life Sciences,Advanced study of the brain and nervous system,"neuroscience,brain,cognitive science,neurobiology",1 year,10500,16500,3.2,6.5,8.1,"Neuroscientist, Clinical Researcher","Neuroanatomy and Physiology (Core): Covers the structure and function of the nervous system.
+Cognitive Neuroscience (Core): Explores brain processes underlying cognition.
+Neuropharmacology (Core): Focuses on drugs affecting the nervous system.
+Research Methods in Neuroscience (Core): Teaches experimental design for brain research.
+Dissertation (Core): A research project on a neuroscience topic."
+Genetics BSc,undergraduate,School of Life Sciences,Explores genetic principles and molecular biology,"genetics,molecular biology,biotechnology,genomics",3 years,9250,13500,3.0,6.0,7.5,"Geneticist, Bioinformatics Specialist","Molecular Genetics (Core): Covers DNA structure, replication, and gene expression.
+Genomics and Bioinformatics (Core): Introduces computational analysis of genetic data.
+Genetic Engineering (Core): Teaches techniques for manipulating genetic material.
+Population Genetics (Core): Explores genetic variation in populations.
+Final Year Project (Core): A research project in genetics or genomics."
+Microbiology MSc,masters,School of Life Sciences,Study of microorganisms and their applications,"microbiology,bacteria,viruses,immunology",1 year,10500,16500,3.2,6.5,7.9,"Microbiologist, Research Scientist","Bacterial Pathogenesis (Core): Covers mechanisms of bacterial infections.
+Virology (Core): Focuses on the study of viruses and their impact.
+Immunology Fundamentals (Core): Introduces immune system functions and responses.
+Microbial Biotechnology (Core): Explores applications of microorganisms in industry.
+Dissertation (Core): A research project on a microbiology topic."
+Biochemistry BSc,undergraduate,School of Life Sciences,Study of chemical processes in living organisms,"biochemistry,molecular biology,chemistry",3 years,9250,13500,3.0,6.0,7.3,"Biochemist, Laboratory Technician","Biomolecules (Core): Covers the structure and function of proteins, lipids, and carbohydrates.
+Enzymology (Core): Focuses on enzyme kinetics and biochemical reactions.
+Molecular Biology Techniques (Core): Teaches lab methods for studying biomolecules.
+Metabolism (Core): Explores biochemical pathways in living organisms.
+Final Year Project (Core): A research project in biochemistry."
+Pharmacology MSc,masters,School of Life Sciences,Advanced study of drug action and development,"pharmacology,drug development,pharmaceuticals",1 year,10500,16500,3.2,6.5,8.0,"Pharmacologist, Clinical Researcher","Drug Design and Development (Core): Covers the process of creating new pharmaceuticals.
+Pharmacodynamics (Core): Explores how drugs interact with biological systems.
+Clinical Pharmacology (Core): Focuses on drug applications in clinical settings.
+Toxicology (Core): Studies the adverse effects of drugs and chemicals.
+Dissertation (Core): A research project on a pharmacological topic."
+Bioinformatics MSc,masters,School of Life Sciences,Combines biology and computational analysis,"bioinformatics,genomics,data analysis",1 year,10500,16500,3.0,6.5,8.2,"Bioinformatics Specialist, Data Scientist","Computational Biology (Core): Introduces algorithms for biological data analysis.
+Genomics and Proteomics (Core): Covers sequencing and analysis of genomes and proteins.
+Data Science for Bioinformatics (Core): Teaches statistical and machine learning techniques.
+Programming for Bioinformatics (Core): Focuses on Python and R for data analysis.
+Dissertation (Core): A research project on a bioinformatics challenge."
+Environmental Biology BSc,undergraduate,School of Life Sciences,Focuses on ecosystems and conservation,"environmental biology,ecology,conservation",3 years,9250,13500,2.8,6.0,7.4,"Environmental Biologist, Ecologist","Ecology Fundamentals (Core): Covers ecosystems, biodiversity, and environmental interactions.
+Conservation Biology (Core): Focuses on species preservation and habitat restoration.
+Environmental Monitoring (Core): Teaches techniques for assessing environmental health.
+Climate Change Biology (Core): Explores the biological impacts of climate change.
+Final Year Project (Core): A research project on an environmental biology topic."
+Marine Biology MSc,masters,School of Life Sciences,Study of marine ecosystems and conservation,"marine biology,oceanography,ecology",1 year,10500,16500,3.0,6.5,7.8,"Marine Biologist, Oceanographer","Marine Ecosystems (Core): Covers the structure and dynamics of marine environments.
+Oceanography (Core): Introduces physical and biological aspects of the ocean.
+Marine Conservation (Core): Focuses on preserving marine biodiversity.
+Field Research Techniques (Core): Teaches methods for studying marine organisms.
+Dissertation (Core): A research project on a marine biology topic."
+Biotechnology PhD,PhD,School of Life Sciences,Research in biotechnological innovations,"biotechnology,research,genetic engineering",3 years,12000,18000,3.2,6.5,8.2,"Biotechnology Researcher, Academic","Advanced Biotechnology Research (Core): Covers methodologies for innovative biotech research.
+Genetic Engineering Techniques (Core): Focuses on advanced gene-editing technologies.
+Bioprocessing Applications (Core): Explores industrial applications of biotechnology.
+Ethics in Biotechnology (Core): Examines ethical issues in biotech research.
+Thesis (Core): An original research contribution to biotechnology."
+Molecular Biology Postgraduate Diploma,postgraduate diploma,School of Life Sciences,Condensed program in molecular biology techniques,"molecular biology,genetics,biotechnology",9 months,8500,13000,3.0,6.5,7.7,"Molecular Biologist, Research Technician","Molecular Biology Techniques (Core): Teaches lab methods for DNA and protein analysis.
+Gene Expression Analysis (Core): Covers techniques for studying gene regulation.
+Biotechnology Applications (Core): Introduces practical uses of molecular biology.
+Bioinformatics Basics (Core): Teaches computational tools for molecular data.
+Capstone Project (Core): A practical project applying molecular biology skills."
+Business Management MBA,masters,Business School,Advanced business program for leadership and strategy,"business,management,leadership,strategy",2 years,12000,18500,3.0,6.5,7.5,"Business Manager, Consultant, CEO","Strategic Management (Core): Covers business strategy formulation and execution.
+Leadership and Organizational Behavior (Core): Focuses on leading teams and managing change.
+Financial Management (Core): Teaches budgeting, investment, and financial analysis.
+Global Business Environment (Core): Explores international markets and trade.
+Capstone Project (Core): A strategic business plan or consultancy project."
+Digital Marketing MSc,masters,Business School,Modern marketing with focus on social media and SEO,"digital marketing,social media,SEO,analytics",1 year,10000,15500,2.8,6.5,8.0,"Digital Marketer, Social Media Manager","Digital Marketing Strategies (Core): Covers SEO, PPC, and content marketing techniques.
+Social Media Marketing (Core): Focuses on leveraging social platforms for brand growth.
+Analytics for Marketing (Core): Teaches data-driven marketing using tools like Google Analytics.
+Consumer Behavior (Core): Explores psychological factors in marketing decisions.
+Dissertation (Core): A research project on digital marketing trends."
+Finance MSc,masters,Business School,Advanced finance program covering investment and risk,"finance,banking,investment,risk management",1 year,10500,16000,3.0,6.5,7.8,"Financial Analyst, Investment Banker","Investment Analysis (Core): Covers portfolio management and financial modeling.
+Risk Management (Core): Focuses on identifying and mitigating financial risks.
+Corporate Finance (Core): Teaches financial strategies for business growth.
+Financial Markets (Core): Explores global financial systems and instruments.
+Dissertation (Core): A research project on a finance-related topic."
+International Business BA,undergraduate,Business School,Global business with focus on trade and economics,"international business,global trade,economics",3 years,9250,13500,2.7,6.5,7.0,"International Business Manager, Trade Specialist","Global Trade and Economics (Core): Covers international markets and trade policies.
+Cross-Cultural Management (Core): Focuses on managing diverse global teams.
+International Marketing (Core): Teaches marketing strategies for global markets.
+Business Law (Core): Introduces legal frameworks for international business.
+Final Year Project (Core): A project analyzing global business challenges."
+Entrepreneurship MSc,masters,Business School,Focuses on starting and scaling businesses,"entrepreneurship,startups,innovation",1 year,10500,16500,3.0,6.5,7.7,"Entrepreneur, Startup Founder","Entrepreneurial Strategies (Core): Covers business model development and innovation.
+Startup Financing (Core): Teaches funding strategies for new ventures.
+Innovation Management (Core): Focuses on fostering creativity and innovation.
+Business Planning (Core): Guides students in creating viable business plans.
+Dissertation (Core): A project developing a startup concept or strategy."
+Human Resource Management MSc,masters,Business School,Study of HR strategies and employee relations,"human resources,HR,employee relations",1 year,10000,15500,2.8,6.5,7.4,"HR Manager, Recruitment Specialist","HR Strategy and Planning (Core): Covers strategic approaches to human resource management.
+Employee Relations (Core): Focuses on managing workplace dynamics and conflicts.
+Recruitment and Selection (Core): Teaches effective hiring and talent management.
+Organizational Behavior (Core): Explores psychological aspects of workplace dynamics.
+Dissertation (Core): A research project on HR practices or challenges."
+Marketing BA,undergraduate,Business School,Study of marketing principles and branding,"marketing,branding,consumer behavior",3 years,9250,13500,2.7,6.0,7.2,"Marketing Manager, Brand Manager","Marketing Principles (Core): Covers core concepts in marketing and branding.
+Consumer Behavior (Core): Explores psychological factors in purchasing decisions.
+Digital Marketing Basics (Core): Introduces SEO, social media, and online advertising.
+Market Research (Core): Teaches techniques for gathering and analyzing market data.
+Final Year Project (Core): A project developing a marketing campaign or strategy."
+Supply Chain Management MSc,masters,Business School,Focuses on logistics and supply chain strategies,"supply chain,logistics,operations",1 year,10500,16500,3.0,6.5,7.6,"Supply Chain Manager, Logistics Analyst","Supply Chain Strategies (Core): Covers planning and optimizing supply chains.
+Logistics Management (Core): Focuses on transportation and distribution systems.
+Operations Management (Core): Teaches efficient production and service operations.
+Global Supply Chains (Core): Explores international logistics and trade.
+Dissertation (Core): A research project on supply chain optimization."
+Accounting BSc,undergraduate,Business School,Study of financial accounting and auditing,"accounting,financial reporting,auditing",3 years,9250,13500,2.8,6.0,7.3,"Accountant, Auditor","Financial Accounting (Core): Covers principles of financial reporting and bookkeeping.
+Auditing and Assurance (Core): Teaches techniques for financial audits and compliance.
+Management Accounting (Core): Focuses on budgeting and cost analysis for businesses.
+Taxation (Core): Introduces tax laws and financial planning.
+Final Year Project (Core): A project analyzing financial or auditing practices."
+Business Analytics MSc,masters,Business School,Combines data analysis and business strategy,"business analytics,data analysis,statistics",1 year,10500,16500,3.0,6.5,8.1,"Business Analyst, Data Analyst","Data Analytics for Business (Core): Teaches data-driven decision-making techniques.
+Statistical Analysis (Core): Covers statistical methods for business insights.
+Business Intelligence Tools (Core): Introduces tools like Tableau and Power BI.
+Predictive Analytics (Core): Focuses on forecasting and predictive modeling.
+Dissertation (Core): A research project applying analytics to business problems."
+Business Management BA,undergraduate,Business School,Comprehensive business program with focus on management,"business,management,operations",3 years,9250,13500,2.7,6.0,7.1,"Business Manager, Operations Manager","Introduction to Management (Core): Covers core management principles and practices.
+Operations Management (Core): Focuses on efficient business operations and processes.
+Business Strategy (Core): Teaches strategic planning and competitive analysis.
+Financial Management Basics (Core): Introduces budgeting and financial decision-making.
+Final Year Project (Core): A project developing a business strategy or plan."
+Entrepreneurship Apprenticeship,apprenticeship,Business School,Work-based training in business startups,"entrepreneurship,apprenticeship,startups",2 years,8000,12000,2.5,5.5,7.5,"Entrepreneur, Business Consultant","Business Startup Fundamentals (Core): Teaches basics of launching a business.
+Work-Based Business Project (Core): A practical project in a startup environment.
+Entrepreneurial Skills (Core): Focuses on innovation, pitching, and networking.
+Financial Planning for Startups (Core): Covers budgeting and funding for new ventures.
+Professional Skills (Core): Emphasizes workplace communication and ethics."
+Psychology BSc,undergraduate,School of Psychology,Study of human behavior and mental processes,"psychology,behavior,mental health",3 years,9250,13500,2.5,6.0,6.5,"Psychologist, Therapist, Researcher","Introduction to Psychology (Core): Covers foundational theories of human behavior.
+Cognitive Psychology (Core): Explores mental processes like memory and perception.
+Social Psychology (Core): Focuses on social influences on behavior.
+Research Methods in Psychology (Core): Teaches experimental design and data analysis.
+Final Year Project (Core): A research project on a psychological topic."
+Clinical Psychology MSc,masters,School of Psychology,Advanced training in psychological assessment,"clinical psychology,therapy,mental health",1 year,10500,16500,3.2,6.5,7.8,"Clinical Psychologist, Therapist","Psychological Assessment (Core): Covers diagnostic tools and techniques for mental health.
+Therapeutic Interventions (Core): Teaches therapy methods like CBT and psychotherapy.
+Clinical Practice Skills (Core): Focuses on patient interaction and case management.
+Ethics in Clinical Psychology (Core): Explores ethical issues in mental health practice.
+Dissertation (Core): A research project on a clinical psychology topic."
+Cognitive Psychology MSc,masters,School of Psychology,Study of mental processes like perception,"cognitive psychology,memory,perception",1 year,10500,16500,3.2,6.5,7.7,"Cognitive Psychologist, Researcher","Cognitive Processes (Core): Covers memory, perception, and decision-making.
+Neuropsychology Basics (Core): Introduces brain-behavior relationships.
+Experimental Design in Psychology (Core): Teaches methods for cognitive research.
+Cognitive Modeling (Core): Explores computational models of mental processes.
+Dissertation (Core): A research project on cognitive psychology."
+Forensic Psychology MSc,masters,School of Psychology,Psychology in criminal justice and behavioral analysis,"forensic psychology,criminal justice",1 year,10500,16500,3.0,6.5,7.9,"Forensic Psychologist, Criminal Profiler","Criminal Behavior Analysis (Core): Covers psychological theories of crime.
+Forensic Assessment (Core): Teaches evaluation techniques for legal contexts.
+Psychology and Law (Core): Explores the intersection of psychology and criminal justice.
+Ethics in Forensic Psychology (Core): Examines ethical challenges in forensic practice.
+Dissertation (Core): A research project on forensic psychology."
+Developmental Psychology BSc,undergraduate,School of Psychology,Explores human development across the lifespan,"developmental psychology,child psychology",3 years,9250,13500,2.7,6.0,7.0,"Developmental Psychologist, Child Therapist","Child Development (Core): Covers psychological development from infancy to adolescence.
+Lifespan Psychology (Core): Explores developmental changes across the lifespan.
+Developmental Disorders (Core): Focuses on conditions like autism and ADHD.
+Research Methods in Psychology (Core): Teaches data collection and analysis techniques.
+Final Year Project (Core): A research project on developmental psychology."
+Social Psychology MSc,masters,School of Psychology,Study of social influences on behavior,"social psychology,group dynamics",1 year,10500,16500,3.0,6.5,7.6,"Social Psychologist, Researcher","Group Dynamics (Core): Covers social interactions and group behavior.
+Social Influence (Core): Explores persuasion, conformity, and social norms.
+Interpersonal Relationships (Core): Focuses on psychological aspects of relationships.
+Research Methods in Social Psychology (Core): Teaches experimental design for social research.
+Dissertation (Core): A research project on social psychology."
+Neuropsychology MSc,masters,School of Psychology,Focuses on brain-behavior relationships,"neuropsychology,brain,neurology",1 year,10500,16500,3.2,6.5,7.8,"Neuropsychologist, Clinical Researcher","Brain and Behavior (Core): Covers neural foundations of psychological processes.
+Neuropsychological Assessment (Core): Teaches diagnostic tools for brain disorders.
+Cognitive Neuroscience (Core): Explores brain mechanisms underlying cognition.
+Research Methods in Neuropsychology (Core): Focuses on experimental design for brain research.
+Dissertation (Core): A research project on neuropsychology."
+Counseling Psychology MSc,masters,School of Psychology,Training in counseling techniques,"counseling,mental health,therapy",1 year,10500,16500,3.0,6.5,7.5,"Counselor, Therapist","Counseling Techniques (Core): Teaches methods like person-centered and cognitive-behavioral therapy.
+Mental Health Interventions (Core): Focuses on strategies for managing mental health issues.
+Ethics in Counseling (Core): Explores ethical considerations in therapy practice.
+Group Counseling (Core): Covers facilitating group therapy sessions.
+Dissertation (Core): A research project on counseling practices."
+Industrial Psychology BSc,undergraduate,School of Psychology,Psychology in workplace settings,"industrial psychology,organizational behavior",3 years,9250,13500,2.7,6.0,7.1,"Industrial Psychologist, HR Specialist","Organizational Behavior (Core): Covers psychological principles in workplace settings.
+Workplace Motivation (Core): Explores factors influencing employee performance.
+Human Resource Psychology (Core): Focuses on recruitment and employee relations.
+Research Methods in Psychology (Core): Teaches data analysis for workplace studies.
+Final Year Project (Core): A research project on industrial psychology."
+Sport Psychology MSc,masters,School of Psychology,Psychological aspects of athletic performance,"sport psychology,athletics,motivation",1 year,10500,16500,3.0,6.5,7.4,"Sport Psychologist, Performance Coach","Performance Psychology (Core): Covers psychological factors in athletic performance.
+Motivation in Sports (Core): Explores techniques for enhancing athlete motivation.
+Team Dynamics in Sports (Core): Focuses on group psychology in sports teams.
+Research Methods in Sport Psychology (Core): Teaches experimental design for sports research.
+Dissertation (Core): A research project on sport psychology."
+Psychology PhD,PhD,School of Psychology,Research in psychological theories and applications,"psychology,research,behavior",3 years,12000,18000,3.2,6.5,7.6,"Academic, Research Psychologist","Advanced Research Methods (Core): Covers methodologies for psychological research.
+Behavioral Analysis (Core): Focuses on studying human behavior in research contexts.
+Seminar in Psychological Theories (Core): Explores current theories in psychology.
+Ethics in Psychological Research (Core): Examines ethical issues in research.
+Thesis (Core): An original research contribution to psychology."
+Mechanical Engineering BEng,undergraduate,School of Engineering,Comprehensive program in mechanics and design,"mechanical engineering,mechanics,design",4 years,9250,14000,3.0,6.0,7.6,"Mechanical Engineer, Design Engineer","Mechanics and Materials (Core): Covers principles of mechanics and material properties.
+Engineering Design (Core): Teaches CAD and design methodologies for mechanical systems.
+Thermodynamics (Core): Focuses on energy transfer and heat in engineering.
+Manufacturing Processes (Core): Introduces techniques for producing mechanical components.
+Final Year Project (Core): A design or research project in mechanical engineering."
+Renewable Energy Engineering MEng,masters,School of Engineering,Focuses on sustainable energy technologies,"renewable energy,sustainability,solar",2 years,11000,17000,3.2,6.5,8.7,"Energy Engineer, Sustainability Consultant","Solar Energy Systems (Core): Covers design and implementation of solar technologies.
+Wind Energy Engineering (Core): Focuses on wind turbine design and energy production.
+Sustainable Energy Solutions (Core): Explores renewable energy systems and their applications.
+Energy Policy and Economics (Core): Teaches policy and financial aspects of renewable energy.
+Dissertation (Core): A research project on renewable energy innovations."
+Civil Engineering BEng,undergraduate,School of Engineering,Study of infrastructure design and construction,"civil engineering,infrastructure,construction",4 years,9250,14000,3.0,6.0,7.5,"Civil Engineer, Structural Engineer","Structural Analysis (Core): Covers principles of designing stable structures.
+Construction Materials (Core): Focuses on materials used in civil engineering projects.
+Geotechnical Engineering (Core): Teaches soil mechanics and foundation design.
+Infrastructure Design (Core): Introduces planning and designing urban infrastructure.
+Final Year Project (Core): A design or research project in civil engineering."
+Electrical Engineering MSc,masters,School of Engineering,Advanced study of electrical systems,"electrical engineering,power systems,electronics",1 year,10500,16500,3.2,6.5,7.8,"Electrical Engineer, Power Systems Engineer","Power Systems Design (Core): Covers electrical power generation and distribution.
+Electronics and Circuits (Core): Focuses on designing electronic circuits and systems.
+Control Systems (Core): Teaches automation and control in electrical engineering.
+Renewable Energy Integration (Core): Explores integrating renewables into power systems.
+Dissertation (Core): A research project on electrical engineering innovations."
+Aerospace Engineering BEng,undergraduate,School of Engineering,Aircraft and spacecraft design and technology,"aerospace engineering,aircraft,spacecraft",4 years,9250,14000,3.0,6.0,7.7,"Aerospace Engineer, Aircraft Designer","Aerodynamics (Core): Covers principles of airflow and aircraft performance.
+Aircraft Design (Core): Teaches designing aircraft structures and systems.
+Propulsion Systems (Core): Focuses on jet engines and propulsion technologies.
+Spacecraft Engineering (Core): Introduces design for space vehicles and systems.
+Final Year Project (Core): A design or research project in aerospace engineering."
+Chemical Engineering MSc,masters,School of Engineering,Study of chemical processes in industry,"chemical engineering,process engineering",1 year,10500,16500,3.2,6.5,7.9,"Chemical Engineer, Process Engineer","Process Design and Optimization (Core): Covers designing efficient chemical processes.
+Chemical Reaction Engineering (Core): Focuses on reactor design and kinetics.
+Thermodynamics for Chemical Engineering (Core): Teaches energy principles in chemical systems.
+Plant Safety and Sustainability (Core): Explores safety and environmental considerations.
+Dissertation (Core): A research project on chemical engineering challenges."
+Biomedical Engineering BSc,undergraduate,School of Engineering,Engineering for healthcare innovations,"biomedical engineering,medical devices",3 years,9250,13500,3.0,6.0,7.6,"Biomedical Engineer, Medical Device Designer","Biomechanics (Core): Covers mechanical principles in biological systems.
+Medical Device Design (Core): Teaches designing devices for healthcare applications.
+Biomaterials (Core): Focuses on materials used in medical implants and devices.
+Signal Processing in Biomedicine (Core): Introduces techniques for analyzing biological signals.
+Final Year Project (Core): A design or research project in biomedical engineering."
+Environmental Engineering MSc,masters,School of Engineering,Sustainable engineering solutions,"environmental engineering,sustainability",1 year,10500,16500,3.2,6.5,8.0,"Environmental Engineer, Water Management Specialist","Water Resource Management (Core): Covers sustainable water treatment and supply.
+Environmental Impact Assessment (Core): Teaches evaluating environmental effects of projects.
+Sustainable Engineering Design (Core): Focuses on eco-friendly engineering solutions.
+Air Quality Management (Core): Explores techniques for monitoring and improving air quality.
+Dissertation (Core): A research project on environmental engineering challenges."
+Robotics Engineering MSc,masters,School of Engineering,Robotic systems design and automation,"robotics,automation,engineering",1 year,10500,16500,3.2,6.5,8.1,"Robotics Engineer, Automation Specialist","Robotic System Design (Core): Covers designing robots and automation systems.
+Control Systems Engineering (Core): Teaches control algorithms for robotic applications.
+AI in Robotics (Core): Focuses on integrating AI for autonomous robots.
+Mechatronics (Core): Introduces integration of mechanical and electronic systems.
+Dissertation (Core): A research project on robotics engineering innovations."
+Automotive Engineering BEng,undergraduate,School of Engineering,Vehicle design and performance,"automotive engineering,vehicles,design",4 years,9250,14000,3.0,6.0,7.5,"Automotive Engineer, Vehicle Designer","Vehicle Dynamics (Core): Covers performance and handling of vehicles.
+Automotive Design (Core): Teaches CAD and design for vehicle systems.
+Powertrain Systems (Core): Focuses on engines and transmission technologies.
+Automotive Materials (Core): Explores materials used in vehicle manufacturing.
+Final Year Project (Core): A design or research project in automotive engineering."
+Engineering Management MSc,masters,School of Engineering,Combines engineering and management principles,"engineering management,project management",1 year,10500,16500,3.0,6.5,7.7,"Engineering Manager, Project Manager","Project Management (Core): Covers planning and managing engineering projects.
+Engineering Economics (Core): Teaches financial analysis for engineering decisions.
+Leadership in Engineering (Core): Focuses on leading technical teams.
+Operations Management (Core): Explores efficient production and service operations.
+Dissertation (Core): A research project on engineering management challenges."
+Mechanical Engineering Apprenticeship,apprenticeship,School of Engineering,Work-based training in mechanical engineering,"mechanical engineering,apprenticeship,design",2 years,8000,12000,2.5,5.5,7.4,"Junior Mechanical Engineer, Technician","Introduction to Mechanics (Core): Covers basic principles of mechanical systems.
+Work-Based Engineering Project (Core): A practical project in a workplace setting.
+Engineering Design Basics (Core): Teaches CAD and design for mechanical components.
+Manufacturing Techniques (Core): Introduces production processes in industry.
+Professional Skills (Core): Emphasizes workplace communication and ethics."
+Environmental Science BSc,undergraduate,School of Life Sciences,Study of environmental systems and sustainability,"environmental science,climate change,sustainability",3 years,9250,13500,2.8,6.0,7.4,"Environmental Scientist, Conservationist","Environmental Systems (Core): Covers ecosystems, climate, and sustainability principles.
+Climate Change Science (Core): Focuses on causes and impacts of climate change.
+Environmental Monitoring (Core): Teaches techniques for assessing environmental health.
+Conservation Strategies (Core): Explores methods for protecting natural resources.
+Final Year Project (Core): A research project on environmental science."
+Ecology BSc,undergraduate,School of Life Sciences,Focuses on ecosystems and biodiversity,"ecology,biodiversity,environmental science",3 years,9250,13500,2.8,6.0,7.3,"Ecologist, Conservation Scientist","Ecosystem Dynamics (Core): Covers interactions within ecological systems.
+Biodiversity Conservation (Core): Focuses on preserving species and habitats.
+Field Ecology (Core): Teaches methods for studying ecosystems in the field.
+Environmental Data Analysis (Core): Introduces statistical tools for ecological research.
+Final Year Project (Core): A research project on ecology or conservation."
+Conservation Biology MSc,masters,School of Life Sciences,Species preservation and habitat restoration,"conservation biology,biodiversity,ecology",1 year,10500,16500,3.0,6.5,7.7,"Conservation Biologist, Wildlife Manager","Conservation Strategies (Core): Covers methods for species and habitat preservation.
+Biodiversity Assessment (Core): Teaches techniques for monitoring biodiversity.
+Restoration Ecology (Core): Focuses on restoring degraded ecosystems.
+Environmental Policy (Core): Explores policies for conservation and sustainability.
+Dissertation (Core): A research project on conservation biology."
+Wildlife Biology BSc,undergraduate,School of Life Sciences,Wildlife behavior and conservation,"wildlife biology,ecology,conservation",3 years,9250,13500,2.8,6.0,7.2,"Wildlife Biologist, Zoologist","Wildlife Behavior (Core): Covers behavioral ecology of animals in the wild.
+Conservation Biology (Core): Focuses on protecting wildlife and their habitats.
+Field Research Techniques (Core): Teaches methods for studying wildlife in natural settings.
+Ecosystem Management (Core): Explores managing ecosystems for wildlife preservation.
+Final Year Project (Core): A research project on wildlife biology."
+Environmental Science PhD,PhD,School of Life Sciences,Research in environmental challenges and solutions,"environmental science,research,sustainability",3 years,12000,18000,3.2,6.5,7.6,"Environmental Researcher, Academic","Advanced Environmental Research (Core): Covers methodologies for environmental studies.
+Climate Change Solutions (Core): Focuses on research into climate mitigation strategies.
+Sustainability Science (Core): Explores sustainable practices in environmental management.
+Research Ethics (Core): Examines ethical issues in environmental research.
+Thesis (Core): An original research contribution to environmental science."
+Nursing BSc,undergraduate,School of Health Sciences,Professional nursing with clinical practice,"nursing,healthcare,patient care",3 years,9250,14000,2.7,6.5,7.3,"Registered Nurse, Clinical Nurse Specialist","Fundamentals of Nursing (Core): Covers core nursing skills and patient care.
+Clinical Practice (Core): Provides hands-on experience in healthcare settings.
+Pharmacology for Nurses (Core): Teaches drug administration and patient safety.
+Health Assessment (Core): Focuses on assessing patient health and conditions.
+Final Year Project (Core): A project on nursing practice or patient care."
+Public Health MSc,masters,School of Health Sciences,Addresses public health challenges and epidemiology,"public health,epidemiology,global health",1 year,10000,15000,3.0,6.5,7.9,"Public Health Advisor, Epidemiologist","Epidemiology (Core): Covers disease patterns and public health research.
+Global Health Issues (Core): Focuses on health challenges in international contexts.
+Public Health Policy (Core): Teaches policy development for health promotion.
+Biostatistics (Core): Introduces statistical methods for public health data.
+Dissertation (Core): A research project on a public health topic."
+Sport and Exercise Science BSc,undergraduate,School of Health Sciences,Optimizing training and performance,"sport science,exercise,physiology",3 years,9250,13500,3.0,6.5,7.1,"Sport Scientist, Fitness Coach","Exercise Physiology (Core): Covers physiological responses to physical activity.
+Biomechanics of Sport (Core): Focuses on mechanical principles in sports performance.
+Sports Nutrition (Core): Teaches dietary strategies for athletic performance.
+Research Methods in Sport Science (Core): Introduces data analysis for sports research.
+Final Year Project (Core): A research project on sport or exercise science."
+Physiotherapy BSc,undergraduate,School of Health Sciences,Physical therapy for injury recovery,"physiotherapy,physical therapy,rehabilitation",3 years,9250,14000,3.0,6.5,7.5,"Physiotherapist, Sports Therapist","Musculoskeletal Physiotherapy (Core): Covers techniques for treating muscle and joint injuries.
+Neurological Rehabilitation (Core): Focuses on therapy for neurological conditions.
+Clinical Practice (Core): Provides hands-on experience in physiotherapy settings.
+Exercise Therapy (Core): Teaches exercise-based rehabilitation techniques.
+Final Year Project (Core): A project on physiotherapy practice or research."
+Occupational Therapy MSc,masters,School of Health Sciences,Helping individuals achieve independence,"occupational therapy,healthcare,rehabilitation",1 year,10500,16500,3.0,6.5,7.6,"Occupational Therapist, Rehabilitation Specialist","Occupational Therapy Practice (Core): Covers techniques for promoting independence.
+Rehabilitation Strategies (Core): Focuses on therapy for physical and mental conditions.
+Assistive Technologies (Core): Teaches tools for supporting client independence.
+Ethics in Occupational Therapy (Core): Explores ethical issues in therapy practice.
+Dissertation (Core): A research project on occupational therapy."
+Nutrition and Dietetics BSc,undergraduate,School of Health Sciences,Nutrition and health impact,"nutrition,dietetics,health",3 years,9250,13500,2.8,6.0,7.4,"Dietitian, Nutritionist","Human Nutrition (Core): Covers nutritional science and dietary requirements.
+Dietary Assessment (Core): Teaches methods for evaluating dietary intake.
+Clinical Nutrition (Core): Focuses on nutrition for managing health conditions.
+Public Health Nutrition (Core): Explores nutrition policies for population health.
+Final Year Project (Core): A project on nutrition or dietetics research."
+Health Informatics MSc,masters,School of Health Sciences,Healthcare and IT for data management,"health informatics,healthcare IT,data management",1 year,10500,16500,3.0,6.5,7.8,"Health Informatics Specialist, Healthcare IT Consultant","Healthcare Data Management (Core): Covers managing and analyzing health data.
+Health IT Systems (Core): Focuses on IT solutions for healthcare delivery.
+Data Analytics for Healthcare (Core): Teaches data-driven decision-making in health.
+Information Security in Healthcare (Core): Explores protecting sensitive health data.
+Dissertation (Core): A research project on health informatics."
+Mental Health Nursing MSc,masters,School of Health Sciences,Mental health care and nursing practices,"mental health,nursing,psychiatric care",1 year,10500,16500,3.0,6.5,7.7,"Mental Health Nurse, Psychiatric Nurse","Psychiatric Nursing (Core): Covers nursing care for mental health conditions.
+Therapeutic Interventions (Core): Teaches therapy techniques for mental health.
+Mental Health Assessment (Core): Focuses on evaluating mental health conditions.
+Ethics in Mental Health Care (Core): Explores ethical issues in psychiatric nursing.
+Dissertation (Core): A research project on mental health nursing."
+Medical Imaging BSc,undergraduate,School of Health Sciences,Imaging technologies for diagnosis,"medical imaging,radiography,diagnostics",3 years,9250,13500,3.0,6.0,7.3,"Radiographer, Diagnostic Technician","Radiographic Techniques (Core): Covers imaging methods like X-ray and MRI.
+Diagnostic Imaging (Core): Teaches interpretation of medical images for diagnosis.
+Radiation Safety (Core): Focuses on safe use of imaging technologies.
+Clinical Practice (Core): Provides hands-on experience in imaging settings.
+Final Year Project (Core): A project on medical imaging techniques or applications."
+Health Policy MSc,masters,School of Health Sciences,Healthcare policy development,"health policy,public health,policy analysis",1 year,10500,16500,3.0,6.5,7.9,"Health Policy Analyst, Healthcare Administrator","Healthcare Policy Analysis (Core): Covers developing and evaluating health policies.
+Public Health Strategies (Core): Focuses on policies for population health.
+Health Economics (Core): Teaches financial aspects of healthcare systems.
+Global Health Policy (Core): Explores international health policy frameworks.
+Dissertation (Core): A research project on health policy challenges."
+Nursing Apprenticeship,apprenticeship,School of Health Sciences,Work-based training in nursing,"nursing,apprenticeship,healthcare",2 years,8000,12000,2.5,5.5,7.2,"Registered Nurse, Healthcare Assistant","Fundamentals of Nursing Practice (Core): Teaches basic nursing skills and patient care.
+Work-Based Clinical Practice (Core): Provides hands-on experience in healthcare settings.
+Pharmacology Basics (Core): Covers drug administration and safety.
+Health Assessment Skills (Core): Teaches patient evaluation techniques.
+Professional Skills (Core): Emphasizes workplace communication and ethics."
+Public Health PhD,PhD,School of Health Sciences,Research in public health strategies,"public health,research,epidemiology",3 years,12000,18000,3.2,6.5,7.8,"Public Health Researcher, Academic","Advanced Public Health Research (Core): Covers methodologies for public health studies.
+Epidemiological Methods (Core): Focuses on studying disease patterns and causes.
+Health Policy Analysis (Core): Teaches evaluating and developing health policies.
+Ethics in Public Health (Core): Explores ethical issues in public health research.
+Thesis (Core): An original research contribution to public health."
+Architecture BArch,undergraduate,School of Architecture,Creative design for buildings and urban spaces,"architecture,design,urban planning",5 years,9250,14500,3.0,6.5,7.7,"Architect, Urban Planner","Architectural Design Studio (Core): Teaches creative design for buildings and spaces.
+Building Technology (Core): Covers construction methods and materials.
+Urban Planning Principles (Core): Introduces planning for sustainable urban environments.
+History of Architecture (Core): Explores architectural styles and their evolution.
+Final Year Project (Core): A design project creating an architectural solution."
+Construction Project Management MSc,masters,School of Architecture,Covers project management in construction,"construction,project management,engineering",1 year,10500,16500,3.0,6.5,8.4,"Project Manager, Construction Consultant","Construction Project Planning (Core): Teaches scheduling and resource management.
+Cost Management (Core): Focuses on budgeting and financial control in construction.
+Risk Management in Construction (Core): Covers identifying and mitigating project risks.
+Sustainable Construction (Core): Explores eco-friendly building practices.
+Dissertation (Core): A research project on construction management."
+Interior Design BA,undergraduate,School of Architecture,Designing functional and aesthetic interiors,"interior design,design,space planning",3 years,9250,13500,2.7,6.0,7.2,"Interior Designer, Space Planner","Interior Design Studio (Core): Teaches creative design for interior spaces.
+Space Planning (Core): Focuses on optimizing layouts for functionality and aesthetics.
+Materials and Finishes (Core): Covers selecting materials for interior design projects.
+Digital Design Tools (Core): Introduces software like AutoCAD for design visualization.
+Final Year Project (Core): A project designing a complete interior space."
+Urban Planning MSc,masters,School of Architecture,Sustainable city planning,"urban planning,city planning,sustainability",1 year,10500,16500,3.0,6.5,7.8,"Urban Planner, City Planner","Urban Design Principles (Core): Covers designing sustainable urban environments.
+Planning Policy and Regulation (Core): Teaches legal frameworks for city planning.
+Sustainable Urban Development (Core): Focuses on eco-friendly urban strategies.
+GIS for Urban Planning (Core): Introduces geographic information systems for planning.
+Dissertation (Core): A research project on urban planning challenges."
+Landscape Architecture BSc,undergraduate,School of Architecture,Design for outdoor spaces,"landscape architecture,design,environmental science",3 years,9250,13500,2.8,6.0,7.3,"Landscape Architect, Environmental Designer","Landscape Design Studio (Core): Teaches creative design for outdoor spaces.
+Environmental Design (Core): Focuses on sustainable landscape solutions.
+Plant Science for Landscapes (Core): Covers plant selection and ecology for design.
+Site Planning (Core): Introduces planning for landscape projects.
+Final Year Project (Core): A project designing a landscape solution."
+Sustainable Architecture MSc,masters,School of Architecture,Eco-friendly design practices,"sustainable architecture,green design",1 year,10500,16500,3.0,6.5,7.9,"Sustainable Architect, Green Building Consultant","Sustainable Design Principles (Core): Covers eco-friendly architectural practices.
+Green Building Technologies (Core): Focuses on energy-efficient building systems.
+Environmental Impact Assessment (Core): Teaches evaluating building sustainability.
+Urban Sustainability (Core): Explores sustainable design in urban contexts.
+Dissertation (Core): A research project on sustainable architecture."
+Architecture PhD,PhD,School of Architecture,Research in architectural design and theory,"architecture,research,design",3 years,12000,18000,3.2,6.5,7.7,"Academic, Architectural Researcher","Advanced Architectural Research (Core): Covers methodologies for design research.
+Architectural Theory (Core): Explores theoretical frameworks in architecture.
+Sustainable Design Research (Core): Focuses on eco-friendly architectural innovations.
+Seminar in Architecture (Core): Engages students in critiquing current research.
+Thesis (Core): An original research contribution to architecture."
+Graphic Design BA,undergraduate,School of Arts,Visual design with digital tools,"graphic design,visual design,photoshop",3 years,9250,13500,2.5,6.0,6.8,"Graphic Designer, Creative Director","Graphic Design Fundamentals (Core): Covers principles of visual design and composition.
+Digital Design Tools (Core): Teaches software like Photoshop and Illustrator.
+Typography (Core): Focuses on designing with text and fonts.
+Branding and Identity (Core): Introduces creating cohesive brand visuals.
+Final Year Project (Core): A project developing a graphic design portfolio."
+Creative Writing MA,masters,School of Arts,Developing a unique writing voice,"creative writing,fiction,poetry",1 year,9000,14000,3.0,6.5,6.9,"Writer, Editor, Publisher","Fiction Writing (Core): Teaches techniques for crafting compelling narratives.
+Poetry and Prose (Core): Focuses on poetic forms and creative prose.
+Writing Workshops (Core): Provides feedback and critique for creative works.
+Publishing and Editing (Core): Explores the publishing industry and editing skills.
+Dissertation (Core): A creative writing project, such as a novel or poetry collection."
+Fine Art BA,undergraduate,School of Arts,Artistic expression through various media,"fine art,painting,sculpture",3 years,9250,13500,2.5,6.0,6.7,"Artist, Art Curator","Painting and Drawing (Core): Covers techniques in traditional and modern art media.
+Sculpture and Installation (Core): Teaches 3D art creation and spatial design.
+Art History and Theory (Core): Explores the evolution of artistic movements.
+Studio Practice (Core): Provides hands-on experience in art creation.
+Final Year Project (Core): A project creating a cohesive art exhibition."
+Film Studies MA,masters,School of Arts,Film theory and production,"film studies,cinema,film production",1 year,9000,14000,3.0,6.5,7.0,"Film Critic, Filmmaker","Film Theory and Criticism (Core): Covers analyzing films and cinematic movements.
+Film Production Techniques (Core): Teaches directing, editing, and cinematography.
+Screenwriting (Core): Focuses on crafting scripts for film and television.
+Global Cinema (Core): Explores international film traditions and styles.
+Dissertation (Core): A research project or film production project."
+Photography BA,undergraduate,School of Arts,Photographic techniques and storytelling,"photography,visual storytelling",3 years,9250,13500,2.5,6.0,6.9,"Photographer, Photojournalist","Photographic Techniques (Core): Covers camera operation and image composition.
+Visual Storytelling (Core): Teaches narrative creation through photography.
+Digital Photography (Core): Focuses on editing and post-production techniques.
+History of Photography (Core): Explores the evolution of photographic art.
+Final Year Project (Core): A project creating a photography portfolio."
+Animation MSc,masters,School of Arts,Animation techniques and digital storytelling,"animation,3D animation,visual effects",1 year,9000,14000,3.0,6.5,7.1,"Animator, Visual Effects Artist","3D Animation Techniques (Core): Covers tools like Maya for creating animations.
+Visual Effects (Core): Teaches techniques for creating cinematic effects.
+Storyboarding (Core): Focuses on planning animated sequences.
+Digital Storytelling (Core): Explores narrative development in animation.
+Dissertation (Core): A project creating an animated short or visual effects sequence."
+Digital Media BA,undergraduate,School of Arts,Study of digital content creation,"digital media,content creation,media",3 years,9250,13500,2.5,6.0,6.8,"Digital Content Creator, Media Producer","Digital Content Creation (Core): Covers producing multimedia content for online platforms.
+Social Media Production (Core): Teaches creating engaging social media content.
+Digital Design Tools (Core): Introduces software for multimedia production.
+Media Theory (Core): Explores the impact of digital media on society.
+Final Year Project (Core): A project creating a digital media campaign."
+Creative Arts PhD,PhD,School of Arts,Research in creative arts practices,"creative arts,research,art",3 years,12000,18000,3.2,6.5,6.9,"Academic, Art Researcher","Creative Arts Research Methods (Core): Covers methodologies for arts research.
+Contemporary Art Practices (Core): Explores current trends in creative arts.
+Critical Theory in Arts (Core): Focuses on theoretical frameworks for art analysis.
+Seminar in Creative Arts (Core): Engages students in critiquing current research.
+Thesis (Core): An original research contribution to creative arts."
+Fashion Design BA,undergraduate,School of Arts,Design and creation of fashion products,"fashion design,clothing,design",3 years,9250,13500,2.5,6.0,7.0,"Fashion Designer, Stylist","Fashion Design Studio (Core): Teaches designing and creating clothing concepts.
+Textile Technology (Core): Covers materials and techniques in fashion production.
+Fashion Illustration (Core): Focuses on visualizing fashion designs.
+History of Fashion (Core): Explores the evolution of fashion trends.
+Final Year Project (Core): A project creating a fashion collection."
+Theatre Studies MA,masters,School of Arts,Study of theatre production and performance,"theatre,performance,drama",1 year,9000,14000,3.0,6.5,7.0,"Theatre Director, Performer","Theatre Production (Core): Covers directing and producing theatrical performances.
+Performance Techniques (Core): Teaches acting and stage performance skills.
+Dramaturgy (Core): Focuses on analyzing and developing theatrical scripts.
+Theatre History (Core): Explores the evolution of theatre and performance.
+Dissertation (Core): A research project or theatrical production."
+Education Studies BA,undergraduate,School of Education,Explores teaching and learning theories,"education,teaching,pedagogy",3 years,9250,13500,2.7,6.0,7.2,"Teacher, Education Consultant","Learning Theories (Core): Covers foundational theories of education and pedagogy.
+Curriculum Design (Core): Teaches planning and developing educational programs.
+Educational Psychology (Core): Explores psychological aspects of learning.
+Inclusive Education (Core): Focuses on teaching diverse learners.
+Final Year Project (Core): A project on educational theory or practice."
+Educational Leadership MA,masters,School of Education,Leadership in educational settings,"educational leadership,management,education",1 year,10000,15000,3.0,6.5,7.5,"School Principal, Education Administrator","Leadership in Education (Core): Covers strategies for leading educational institutions.
+Educational Policy (Core): Teaches developing and analyzing education policies.
+School Management (Core): Focuses on managing educational organizations.
+Change Management in Education (Core): Explores implementing change in schools.
+Dissertation (Core): A research project on educational leadership."
+Special Education MSc,masters,School of Education,Focuses on inclusive education practices,"special education,inclusion,teaching",1 year,10000,15000,3.0,6.5,7.4,"Special Education Teacher, Inclusion Specialist","Inclusive Education Strategies (Core): Covers teaching methods for diverse learners.
+Special Needs Assessment (Core): Teaches evaluating students with special needs.
+Behavioral Interventions (Core): Focuses on managing challenging behaviors.
+Educational Technology for Inclusion (Core): Explores tech tools for special education.
+Dissertation (Core): A research project on special education practices."
+Education PhD,PhD,School of Education,Research in educational theories and practices,"education,research,pedagogy",3 years,12000,18000,3.2,6.5,7.3,"Academic, Education Researcher","Advanced Educational Research (Core): Covers methodologies for education studies.
+Pedagogical Theories (Core): Explores current theories in teaching and learning.
+Educational Policy Analysis (Core): Focuses on evaluating education policies.
+Ethics in Educational Research (Core): Examines ethical issues in education research.
+Thesis (Core): An original research contribution to education."
+Teaching Apprenticeship,apprenticeship,School of Education,Work-based training for teaching,"teaching,apprenticeship,education",2 years,8000,12000,2.5,5.5,7.1,"Teacher, Teaching Assistant","Teaching Fundamentals (Core): Covers basic teaching skills and classroom management.
+Work-Based Teaching Practice (Core): Provides hands-on experience in educational settings.
+Curriculum Planning (Core): Teaches designing lesson plans and curricula.
+Inclusive Teaching (Core): Focuses on addressing diverse learner needs.
+Professional Skills (Core): Emphasizes communication and ethics in education."
+Criminology BA,undergraduate,School of Social Sciences,Study of crime and criminal justice,"criminology,criminal justice,sociology",3 years,9250,13500,2.7,6.0,7.2,"Criminologist, Policy Analyst","Introduction to Criminology (Core): Covers theories of crime and criminal behavior.
+Criminal Justice Systems (Core): Explores the structure of justice systems.
+Sociology of Crime (Core): Focuses on social factors influencing crime.
+Research Methods in Criminology (Core): Teaches data collection and analysis.
+Final Year Project (Core): A research project on a criminology topic."
+Sociology BA,undergraduate,School of Social Sciences,Study of social behavior and structures,"sociology,social behavior,society",3 years,9250,13500,2.7,6.0,7.1,"Sociologist, Community Worker","Social Theory (Core): Covers foundational sociological theories and concepts.
+Social Research Methods (Core): Teaches methods for studying social behavior.
+Social Inequality (Core): Focuses on class, race, and gender disparities.
+Global Sociology (Core): Explores social structures in international contexts.
+Final Year Project (Core): A research project on a sociological topic."
+Social Work MSW,masters,School of Social Sciences,Training for professional social work,"social work,community,welfare",2 years,10000,15000,3.0,6.5,7.5,"Social Worker, Community Service Manager","Social Work Practice (Core): Covers professional skills for social work interventions.
+Community Engagement (Core): Teaches working with communities to address needs.
+Welfare Policy (Core): Focuses on policies supporting social welfare.
+Ethics in Social Work (Core): Explores ethical challenges in social work practice.
+Dissertation (Core): A research project on social work practices."
+Criminology MSc,masters,School of Social Sciences,Advanced study of crime and justice systems,"criminology,criminal justice,research",1 year,10500,16500,3.0,6.5,7.6,"Criminologist, Policy Advisor","Advanced Criminological Theory (Core): Explores modern theories of crime.
+Criminal Justice Policy (Core): Focuses on policy development in justice systems.
+Crime Analysis (Core): Teaches data-driven approaches to studying crime.
+Research Methods in Criminology (Core): Covers advanced research techniques.
+Dissertation (Core): A research project on a criminology topic."
+Social Sciences PhD,PhD,School of Social Sciences,Research in social science disciplines,"social sciences,research,sociology",3 years,12000,18000,3.2,6.5,7.4,"Academic, Social Researcher","Advanced Social Research Methods (Core): Covers methodologies for social science research.
+Sociological Theory (Core): Explores current theories in social sciences.
+Data Analysis in Social Sciences (Core): Teaches statistical and qualitative analysis.
+Ethics in Social Research (Core): Examines ethical issues in social science studies.
+Thesis (Core): An original research contribution to social sciences."
