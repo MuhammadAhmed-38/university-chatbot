@@ -1,2 +1,2 @@
-# UEL-Agentic-AI-for-Admission
-An intelligent Streamlit-based AI assistant built for the University of East London to support admission-related queries using LLM (Ollama:latest) / NLP / ML models like GBT and RF, and agentic AI.
+# 🚀 Unified UEL AI Agent
+This project is an AI-powered conversational agent designed to assist prospective students with university admission queries at the University of East London (UEL). Developed as part of an MSc Artificial Intelligence dissertation project, the system leverages natural language processing (NLP) and agentic AI principles to simulate human-like conversations and provide reliable, real-time answers to frequently asked questions.
