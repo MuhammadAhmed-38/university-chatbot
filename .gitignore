@@ -1,5 +1,5 @@
-# Ignore Python virtual environments
 uel_ai_env/
 *.pyc
 __pycache__/
+.DS_Store
 
